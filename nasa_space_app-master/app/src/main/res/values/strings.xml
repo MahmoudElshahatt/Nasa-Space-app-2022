@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Nasa Space App</string>
+    <string name="heading_one">The Carrington Event </string>
+    <string name="heading_two">Early Warning</string>
+    <string name="heading_three">Needed Precautions</string>
+    <string name="desc_one">Get more knowledge about the event.</string>
+    <string name="desc_two">By using ML Model,You will be notified when event occurred</string>
+    <string name="desc_three">Display the necessary precautions to be taken at the time of the event</string>
+    <string name="info_desc">The Carrington Event was the most intense geomagnetic storm in recorded history, peaking from 1
+to 2 September 1859 during the solar cycle. It created strong auroral displays that were reported
+globally and caused sparking and even fires in multiple telegraph stations. The geomagnetic storm
+was most likely the result of a coronal mass ejection from the Sun colliding with Earth\'s
+magnetosphere.
+The geomagnetic storm was associated with a very bright solar flare on 1 September 1859. It was
+observed and recorded independently by British astronomers Richard Christopher Carrington and
+Richard Hodgson.
+A geomagnetic storm of this magnitude occurring today would cause widespread electrical
+disruptions, blackouts, and damage due to extended outages of the electrical power grid.</string>
+
+    <string name="caution_1">Fill plastic containers with water and place them in the refrigerator and freezer if there is room. Leave about an inch of space inside each one because water expands as it freezes. This chilled or frozen water will help keep food cold during a temporary power outage.</string>
+    <string name="caution_2">Most medication that requires refrigeration can be kept in a closed refrigerator for several hours without a problem. If unsure, check with your physician or pharmacist.</string>
+    <string name="caution_3">Keep your car tank at least half full because gas stations rely on electricity to power their pumps.</string>
+    <string name="caution_4">If you have a garage, find out where the manual release lever of your electric garage door opener is located and how to operate it. Garage doors can be heavy, so know that you may need help to lift it.</string>
+    <string name="caution_5">Keep a key to your house with you if you regularly use the garage as the primary means of entering your home, in case the garage door will not open.</string>
+    <string name="caution_6">Keep extra batteries for your phone in a safe place or purchase a solar-powered or hand crank charger. These chargers are good emergency tools to keep your laptop and other small electronics working in the event of a power outage. If you own a car, purchase a car phone charger because you can charge your phone if you lose power at your home.</string>
+    <string name="caution_7">If you have a traditional landline (non-broadband or VOIP) phone, keep at least one non-cordless receiver in your home because it will work even if you lose power.</string>
+    <string name="caution_8">Prepare a family contact sheet. This should include at least one out-of-town contact that may be better able to reach family members in an emergency.</string>
+    <string name="caution_9">Make back-up copies of important digital data and information, automatically if possible, or at least weekly.</string>
+    <string name="shared_key">Dark Mode</string>
+    <string name="explanation">If the peak is more than 4, the greater the strength of Carrington Event. If the peak is less than 4, it will be weak. else the carrington event is moderate.\nThe similarity between the top and bottom of SNN and f10.7 confirms whether or not a Carrington event occurs</string>
+
+</resources>
