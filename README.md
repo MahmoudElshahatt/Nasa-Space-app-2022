@@ -8,7 +8,7 @@ You can check out our team on the NASA Space website [Here](https://2022.spaceap
 **[See the Demo here](https://drive.google.com/file/d/13kho1qMOOF8NnepQ_2zHYCV2Sq8Lzlcy/view)**
 
 ## Future Goals
-- Making an API that connect the AI model with the Android app dinamically.
+- Making an API that connect the AI model with the Android app  dynamically.
 - Making a login Screen.
 
 ## Team Members
