@@ -5,7 +5,7 @@ under the name **Coders** as the team name.
 You can check out our team on the NASA Space website [Here](https://2022.spaceappschallenge.org/challenges/2022-challenges/carrington-event/teams/coders-1/project).
 
 
-**[See the Demo here](https://drive.google.com/file/d/13kho1qMOOF8NnepQ_2zHYCV2Sq8Lzlcy/view)**
+**[See the project Demo here](https://drive.google.com/file/d/13kho1qMOOF8NnepQ_2zHYCV2Sq8Lzlcy/view)**
 
 ## Future Goals
 - Making an API that connect the AI model with the Android app  dynamically.
